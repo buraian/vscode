@@ -2,7 +2,7 @@
 
 ## Important Files
 
-### The Settings Folder
+### The Settings Git Folder
 ```
 ~/.config/code
 ```
@@ -30,7 +30,7 @@ Install Visual Studio Code.
 Move settings folder for Git sync
 
 ```shell
-$ mkdir -p ~/.config/code
+$ mkdir -p ~/.config/code/User
 $ mv -v ~/Library/Application\ Support/Code/User ~/.config/code/User
 ```
 
