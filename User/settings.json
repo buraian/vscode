@@ -1,0 +1,87 @@
+{
+    "editor.fontFamily": " 'Source Code Pro', Menlo, Monaco, 'Courier New', monospace",
+    "editor.fontSize": 15,
+    "search.exclude": {
+        "**/.sass-cache": true
+    },
+    "terminal.external.osxExec": "iTerm.app",
+    "workbench.colorTheme": "Monokai Pro (Filter Ristretto)",
+    "editor.minimap.showSlider": "always",
+    "editor.renderLineHighlight": "gutter",
+    "editor.matchBrackets": false,
+    "editor.fontLigatures": true,
+    "files.associations": {
+        "*.sss": "sass",
+        "*.html": "html",
+        ".inputrc": "shellscript",
+        "*.phtml": "twig",
+        "*.inc": "twig"
+    },
+    "workbench.colorCustomizations": {
+        "[Monokai Pro]": {
+            "editorWhitespace.foreground": "#373338"
+        },
+        "[Monokai Pro (Filter Spectrum)]": {
+            "editorWhitespace.foreground": "#2c2c2c"
+        },
+        "[Monokai Pro (Filter Machine)]": {
+            "editorWhitespace.foreground": "#303c42"
+        },
+        "[Monokai Pro (Filter Ristretto)]": {
+            "editorWhitespace.foreground": "#382f2f"
+        }
+    },
+    "editor.highlightActiveIndentGuide": false,
+    "workbench.editor.closeEmptyGroups": false,
+    "postcss.validate": false,
+    "explorer.confirmDelete": false,
+    "workbench.editor.showTabs": true,
+    "files.insertFinalNewline": true,
+    "vim.overrideCopy": false,
+    "editor.occurrencesHighlight": false,
+    "window.zoomLevel": -2,
+    "window.newWindowDimensions": "maximized",
+    "workbench.startupEditor": "welcomePageInEmptyWorkbench",
+    "vim.startInInsertMode": true,
+    "explorer.confirmDragAndDrop": false,
+    "files.trimFinalNewlines": true,
+    "files.trimTrailingWhitespace": true,
+    "explorer.autoReveal": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideTabs": false,
+    "workbench.editor.labelFormat": "short",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "shellcheck.customArgs": [
+        "-x"
+    ],
+    "shellcheck.exclude": [
+        "SC1090"
+    ],
+    "editor.autoIndent": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "debug.internalConsoleOptions": "neverOpen",
+    "workbench.iconTheme": null,
+    "vim.cursorStylePerMode.normal": "underline",
+    "vim.cursorStylePerMode.visual": "underline",
+    "vim.cursorStylePerMode.visualblock": "underline",
+    "vim.cursorStylePerMode.visualline": "underline",
+    "javascript.implicitProjectConfig.experimentalDecorators": true,
+    "typescript.validate.enable": false,
+    "php.validate.run": "onType",
+    "php.validate.enable": false,
+    "workbench.tree.renderIndentGuides": "always",
+    "workbench.tree.indent": 14,
+    "css.lint.validProperties": [
+        "mso-table-lspace",
+        "mso-table-rspace",
+        "mso-line-height-rule",
+        "mso-hide"
+    ],
+    "workbench.editor.focusRecentEditorAfterClose": false,
+    "editor.renderWhitespace": "boundary",
+    "todo-tree.filtering.excludeGlobs": [
+        "**/node_modules/**",
+        "**/bower_components/**"
+    ]
+}
