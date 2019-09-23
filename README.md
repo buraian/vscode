@@ -60,3 +60,5 @@ $ code --list-extensions > extensions.list
 ```shell
 $ cat extensions.list | xargs -L 1 code --install-extension
 ```
+
+[Note: Make sure `code` is available to `PATH`.](https://code.visualstudio.com/docs/setup/mac#_launching-from-the-command-line)
