@@ -27,6 +27,8 @@
 
 Install Visual Studio Code.
 
+Move settings folder for Git sync
+
 ```shell
 $ mkdir -p ~/.config/code
 $ mv -v ~/Library/Application\ Support/Code/User ~/.config/code/User
